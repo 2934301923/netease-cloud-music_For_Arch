@@ -30,3 +30,14 @@ QQ：2934301923<br>
 <a href="https://gitee.com/laomocode">laomocode</a>
 <a href="https://github.com/springzfx">springzfx</a>
 
+### 常见错误
+1.qcef编译时
+cef-binary-fecf00339545d2819224333cc506d5aa22ae8008.zip下载失败
+解决方案：<br>
+点击<a href="链接: https://pan.baidu.com/s/1iaGh1lFlZwhsCZ4t6bX-AQ">这里</a>下载(提取码: d9yn)，放到qcef编译目录即可！
+2.窗口无法缩放
+解决方案：
+暂无解决方案，这是上游Bug,等待上游更新版本
+
+
+
