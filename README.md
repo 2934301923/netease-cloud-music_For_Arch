@@ -7,18 +7,20 @@
 
 
 #### 安装教程
-
-1.  首先进入qcef目录执行以下命令安装qcef
-
-```
-makepkg -si
-```
-
-2. 然后进入netease-cloud-music执行以下命令安装网易云
+由于本人已把qcef及网易云放到AUR，亦可通过AUR安装
+首先安装qcef
 
 ```
-makepkg -si
+yay -S qcef
 ```
+
+再安装网易云
+
+```
+yay -S netease-cloud-music-for-arch
+```
+
+
 安装完毕！
 
 
@@ -31,13 +33,12 @@ QQ：2934301923<br>
 <a href="https://github.com/springzfx">springzfx</a>
 
 ### 常见错误
-1.qcef编译时
-cef-binary-fecf00339545d2819224333cc506d5aa22ae8008.zip下载失败
-解决方案：<br>
-点击<a href="https://pan.baidu.com/s/1iaGh1lFlZwhsCZ4t6bX-AQ">这里</a>下载(提取码: d9yn)，放到qcef编译目录即可！<br>
-2.窗口无法缩放
+1.窗口无法缩放
 解决方案：
 暂无解决方案，这是上游Bug,等待上游更新版本
 
+### 反馈问题
+由于官方已经不再更新网易云Linux版<br>
+如果有安装方面的问题请在联系我邮箱!
 
 
