@@ -6,8 +6,6 @@
 
 使用本脚本可以全自动化安装
 
-库收集于:https://github.com/2934301923/netease-cloud-music_For_Arch
-
 通过通过AUR安装会报错,于是写了安装的脚本
 
 ## 使用方法
